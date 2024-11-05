@@ -1,1 +1,1 @@
-# BrisT1D-Blood-Glucose-Prediction
+# BrisT1D Blood Glucose Prediction
