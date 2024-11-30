@@ -14,7 +14,7 @@ Use `02_Data_Prep.ipynb` for building the dataset required for modeling notebook
 
 Requires Python 3.12.
 
-List of libraries required is [here](https://github.com/msundarv/BrisT1D-Blood-Glucose-Prediction/blob/main/requirements.txt)). 
+List of libraries required is [here](https://github.com/msundarv/BrisT1D-Blood-Glucose-Prediction/blob/main/requirements.txt). 
 
 ## Next Steps
 
